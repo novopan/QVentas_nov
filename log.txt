@@ -1,0 +1,32 @@
+Y:\VENTAS QV.qvw
+Y:\VENTAS QV.qvw.Meta
+Y:\VENTAS QV.QVW.Shared
+Y:\App\VENTAS QV.qvw
+Y:\App\VENTAS QV.QVW.Shared
+Y:\App\.git\COMMIT_EDITMSG
+Y:\App\.git\config
+Y:\App\.git\description
+Y:\App\.git\HEAD
+Y:\App\.git\index
+Y:\App\.git\hooks\applypatch-msg.sample
+Y:\App\.git\hooks\commit-msg.sample
+Y:\App\.git\hooks\fsmonitor-watchman.sample
+Y:\App\.git\hooks\post-update.sample
+Y:\App\.git\hooks\pre-applypatch.sample
+Y:\App\.git\hooks\pre-commit.sample
+Y:\App\.git\hooks\pre-merge-commit.sample
+Y:\App\.git\hooks\pre-push.sample
+Y:\App\.git\hooks\pre-rebase.sample
+Y:\App\.git\hooks\pre-receive.sample
+Y:\App\.git\hooks\prepare-commit-msg.sample
+Y:\App\.git\hooks\push-to-checkout.sample
+Y:\App\.git\hooks\sendemail-validate.sample
+Y:\App\.git\hooks\update.sample
+Y:\App\.git\info\exclude
+Y:\App\.git\logs\HEAD
+Y:\App\.git\logs\refs\heads\main
+Y:\App\.git\objects\72\61523dbda8d0d92ad61c4fac8d5340d984b80e
+Y:\App\.git\objects\ab\456eedde454028fe1d80bbe6ab1bc5786670e8
+Y:\App\.git\objects\f0\ee3df25e6d4d8eca766b2f39c11289d4da4cd8
+Y:\App\.git\refs\heads\main
+31 File(s) copied
